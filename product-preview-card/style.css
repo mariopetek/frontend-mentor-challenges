@@ -29,14 +29,14 @@ body{
 .flex-component{
     display: flex;
     background-color: white;
-    width: 33%;
-    height: 50%;
+    width: 650px;
+    height: 500px;
     border-radius: 10px;
     overflow: hidden;
 }
 
 .right-side{
-    padding: 30px;
+    padding: 40px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
